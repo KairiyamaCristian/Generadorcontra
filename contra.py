@@ -8,6 +8,8 @@ def generar_contrasena():
     numeros = ['1', '2', '3', '4', '5', '6', '7', '8', '9']
     simbolos =['!', '-', "$", "&"]
 
+    #introducir nuevas palabras con la contrasena
+
     #metemos en una misma lista (mutabilidad)
     caracteres= simbolos + numeros
 
